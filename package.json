@@ -1,0 +1,22 @@
+{
+  "name": "pdf-lecture",
+  "version": "1.0.3",
+  "description": "Transform your pdf lecture slides into vanilla text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulajkavinda/pdf-lecture.git"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "Dulaj Kavinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulajkavinda/pdf-lecture/issues"
+  },
+  "homepage": "https://github.com/dulajkavinda/pdf-lecture#readme"
+}
